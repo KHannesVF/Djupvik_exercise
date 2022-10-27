@@ -1,3 +1,4 @@
+/*
 var heed = document.getElementById("huvud")
 heed.style.color = "red"
 
@@ -6,3 +7,17 @@ textByte.innerHTML = "HALLÅ!!"
 
 var textAdd = document.getElementById("medlem")
 textAdd.textContent = (medlem.textContent + " för oss")
+*/
+
+function ÄndraSida()
+{
+        var text = document.getElementById("penis")
+        
+        if (text.style.color == "black")
+            text.style.color = "teal"
+        
+        else
+        text.style.color = "black"
+
+        
+}
