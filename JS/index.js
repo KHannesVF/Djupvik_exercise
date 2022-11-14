@@ -21,3 +21,11 @@ function ÄndraSida()
 
         
 }
+
+function Mus()
+{
+    var flyttaMus = document.getElementById("pageTitle")
+
+        flyttaMus.innerText = "Plopp" 
+
+}
